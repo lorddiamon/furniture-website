@@ -1,0 +1,2 @@
+# furniture-website
+Static website
